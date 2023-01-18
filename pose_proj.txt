@@ -1,0 +1,64 @@
+In recent years, there has been a significant rise in the overall
+economic losses owing to increasing traffic congestion. For
+instance, the total time lost owing to traffic congestion in
+Japan in 2012 was approximately 5 billion hours per year [1].
+The economic loss in terms of total lost time is estimated to
+be approximately 10 trillion yen per year, and it is calculated
+by converting cash wages in 2012 to time [2]. Therefore,
+because the economic benefits of reducing traffic congestion
+are significant, it is necessary to address this issue
+
+Therefore, there is a need to realize
+a traffic signal control system (TSCS) that automatically
+obtains a better control law considering multiple factors using
+deep reinforcement learning
+
+Ministry of Land, Infrastructure, Transport and Tourism, Ministry of Land,
+Infrastructure, Transport and Tourism Productivity Revolution Project.
+[Online]. Available: https://www.mlit.go.jp/common/001132350.pdf
+
+
+
+
+
+
+Modules:
+	1. Question
+		1. Ask Question
+		2. Answer Question
+		3. Upvote
+		4. Downvote
+		5. Share
+		6. Delete
+	2. Authentication
+		1. LogIn
+		2. SignUp
+	3. Social Media
+		1. Follow
+		2. Unfollow
+	    3. Like
+	    4. Comment
+	    5. Post
+	4. ChatBot
+		1. Email Verification
+			1. Generate OTP
+			2. Send OTP
+			3. Verify OTP
+		2. Authorise Chatbot usage
+		3. Revoke Chatbot usage
+	5. Premium Plans
+		1. Buy Plan
+
+Technology Used:
+	1. MERN Stack Framework
+		1. MongoDB
+		2. Express.js
+		3. React.js
+		4. Node.js
+	2. API's
+		1. Stripe API (Payment)
+		2. StackExchange API (Chatbot)
+	3. Mongoose
+	4. MongoDB Atlas
+	5. Material UI (for icons)
+	
