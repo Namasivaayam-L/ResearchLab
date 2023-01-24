@@ -1,0 +1,2 @@
+live traffic signal status monitoring via mobile app.
+Detecting ambulance and allowing it.
