@@ -1,1 +1,6 @@
 https://towardsdatascience.com/a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e
+https://www.geeksforgeeks.org/implementing-deep-q-learning-using-tensorflow/
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi78dnuu9b-AhXeVmwGHRMxC7MQwqsBegQICRAF&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2nKD6zFQ8xI&usg=AOvVaw3H7N_h--MSAI0U2t8-yFnG
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjQ97mWwNb-AhXZ4DgGHbneAVYQFnoECDkQAQ&url=https%3A%2F%2Ftowardsdatascience.com%2Fdeep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02&usg=AOvVaw1szVP2bUofkNNxzeM4nVW9
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjQ97mWwNb-AhXZ4DgGHbneAVYQFnoECAsQAQ&url=http%3A%2F%2Finoryy.com%2Fpost%2Ftensorflow2-deep-reinforcement-learning%2F&usg=AOvVaw0P5IvbyXLjS6T0VOYTSKRh
+https://analyticsindiamag.com/8-best-free-resources-to-learn-deep-reinforcement-learning-using-tensorflow/
